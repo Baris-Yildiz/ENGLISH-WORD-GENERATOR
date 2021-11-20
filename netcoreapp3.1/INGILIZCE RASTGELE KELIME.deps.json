@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "INGILIZCE RASTGELE KELIME/1.0.0": {
+        "runtime": {
+          "INGILIZCE RASTGELE KELIME.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INGILIZCE RASTGELE KELIME/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
