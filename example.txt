@@ -1,0 +1,5 @@
+versatile = birden fazla şey yapabilmek
+commodity = yararlı bir şey
+sturdy = dayanıklı
+ample = yeterli
+propogate = yaymak
